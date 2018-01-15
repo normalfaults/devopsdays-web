@@ -88,6 +88,10 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: schubergphilis
     level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: chef
+    level: coffee
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
 # TODO: Need to figure out sponsor levels for 2018 before opening this up
